@@ -1,3 +1,3 @@
 # IDontKnow
 Minecraft Server
-Tekxit
+Tekkit
