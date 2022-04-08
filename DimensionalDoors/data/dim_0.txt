@@ -15,7 +15,8 @@
   "Orientation": 0,
   "ChildIDs": [
     2,
-    4
+    4,
+    5
   ],
   "Links": [
     {
@@ -103,6 +104,12 @@
         "z": -1
       },
       "tail": {
+        "destination": {
+          "x": 62,
+          "y": 64,
+          "z": 451,
+          "dimension": 5
+        },
         "linkType": 2
       },
       "orientation": 2,
@@ -406,6 +413,30 @@
         "linkType": 1
       },
       "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 28,
+        "y": 65,
+        "z": 199,
+        "dimension": 0
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 28,
+          "y": 66,
+          "z": 199,
+          "dimension": 6
+        },
+        "linkType": 7
+      },
+      "orientation": 3,
       "children": []
     }
   ],

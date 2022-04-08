@@ -1,0 +1,157 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 6,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 2,
+  "PackDepth": 2,
+  "ParentID": 5,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/hub_smallMultilevelMaze_closed_100.schematic",
+    "SchematicName": "hub_smallMultilevelMaze_closed_100",
+    "DungeonTypeName": "HUB",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 32,
+    "y": 66,
+    "z": 218
+  },
+  "Orientation": 3,
+  "ChildIDs": [
+    7
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 32,
+        "y": 66,
+        "z": 218,
+        "dimension": 6
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 19,
+          "y": 66,
+          "z": 435,
+          "dimension": 5
+        },
+        "linkType": 7
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 33,
+        "y": 66,
+        "z": 195,
+        "dimension": 6
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 27,
+        "y": 69,
+        "z": 198,
+        "dimension": 6
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 28,
+        "y": 69,
+        "z": 216,
+        "dimension": 6
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 14,
+          "y": 69,
+          "z": 531,
+          "dimension": 7
+        },
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 32,
+        "y": 69,
+        "z": 217,
+        "dimension": 6
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 28,
+        "y": 66,
+        "z": 199,
+        "dimension": 6
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 28,
+          "y": 65,
+          "z": 199,
+          "dimension": 0
+        },
+        "linkType": 4
+      },
+      "orientation": 3,
+      "children": []
+    }
+  ],
+  "Tails": []
+}
