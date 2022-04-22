@@ -1,0 +1,89 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 22,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 7,
+  "PackDepth": 7,
+  "ParentID": 21,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/complexHall_hallwayHiddenTreasure_closed_100.schematic",
+    "SchematicName": "complexHall_hallwayHiddenTreasure_closed_100",
+    "DungeonTypeName": "COMPLEXHALL",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": -1670,
+    "y": 75,
+    "z": 113
+  },
+  "Orientation": 2,
+  "ChildIDs": [],
+  "Links": [
+    {
+      "source": {
+        "x": -1670,
+        "y": 75,
+        "z": 113,
+        "dimension": 22
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -1025,
+          "y": 75,
+          "z": 154,
+          "dimension": 21
+        },
+        "linkType": 7
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -1687,
+        "y": 75,
+        "z": 113,
+        "dimension": 22
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -1684,
+        "y": 75,
+        "z": 107,
+        "dimension": 22
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 4
+      },
+      "orientation": 3,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

@@ -302,6 +302,156 @@
       },
       "orientation": 0,
       "children": []
+    },
+    {
+      "source": {
+        "x": -259,
+        "y": 69,
+        "z": 1256,
+        "dimension": -23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -207,
+        "y": 118,
+        "z": 1163,
+        "dimension": -23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -151,
+        "y": 86,
+        "z": -604,
+        "dimension": -23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 24,
+        "y": 79,
+        "z": -631,
+        "dimension": -23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": [
+        {
+          "x": 22,
+          "y": 79,
+          "z": -627
+        }
+      ]
+    },
+    {
+      "source": {
+        "x": -2,
+        "y": 63,
+        "z": 1342,
+        "dimension": -23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -74,
+        "y": 64,
+        "z": 1335,
+        "dimension": -23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -307,
+        "y": 104,
+        "z": 1338,
+        "dimension": -23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 22,
+        "y": 79,
+        "z": -627,
+        "dimension": -23
+      },
+      "parent": {
+        "x": 24,
+        "y": 79,
+        "z": -631
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
     }
   ],
   "Tails": []

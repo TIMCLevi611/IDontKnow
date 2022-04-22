@@ -1,0 +1,115 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 17,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 2,
+  "PackDepth": 2,
+  "ParentID": 16,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/maze_smallMaze1_closed_100.schematic",
+    "SchematicName": "maze_smallMaze1_closed_100",
+    "DungeonTypeName": "MAZE",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 328,
+    "y": 61,
+    "z": 180
+  },
+  "Orientation": 2,
+  "ChildIDs": [
+    18
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 328,
+        "y": 61,
+        "z": 180,
+        "dimension": 17
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 537,
+          "y": 61,
+          "z": 167,
+          "dimension": 16
+        },
+        "linkType": 7
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 300,
+        "y": 61,
+        "z": 179,
+        "dimension": 17
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 234,
+          "y": 61,
+          "z": 196,
+          "dimension": 18
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 307,
+        "y": 61,
+        "z": 185,
+        "dimension": 17
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 311,
+        "y": 61,
+        "z": 166,
+        "dimension": 17
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

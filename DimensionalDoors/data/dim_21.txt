@@ -1,0 +1,79 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 21,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 6,
+  "PackDepth": 6,
+  "ParentID": 20,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 200,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/trap_hallwayPitFallTrap_closed_200.schematic",
+    "SchematicName": "trap_hallwayPitFallTrap_closed_200",
+    "DungeonTypeName": "TRAP",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": -1008,
+    "y": 75,
+    "z": 154
+  },
+  "Orientation": 2,
+  "ChildIDs": [
+    22
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": -1008,
+        "y": 75,
+        "z": 154,
+        "dimension": 21
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -870,
+          "y": 75,
+          "z": 190,
+          "dimension": 20
+        },
+        "linkType": 7
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": -1025,
+        "y": 75,
+        "z": 154,
+        "dimension": 21
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -1670,
+          "y": 75,
+          "z": 113,
+          "dimension": 22
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    }
+  ],
+  "Tails": []
+}
