@@ -1,0 +1,79 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 23,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 1,
+  "PackDepth": 0,
+  "ParentID": 0,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 75,
+    "IsOpen": true,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/ComplexHall_Cere-PuzzleWall_Open_75.schematic",
+    "SchematicName": "ComplexHall_Cere-PuzzleWall_Open_75",
+    "DungeonTypeName": "COMPLEXHALL",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 121,
+    "y": 75,
+    "z": 1020
+  },
+  "Orientation": 0,
+  "ChildIDs": [
+    24
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 121,
+        "y": 75,
+        "z": 1020,
+        "dimension": 23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 131,
+          "y": 75,
+          "z": 1059,
+          "dimension": 0
+        },
+        "linkType": 7
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 121,
+        "y": 71,
+        "z": 1016,
+        "dimension": 23
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 141,
+          "y": 71,
+          "z": 1260,
+          "dimension": 24
+        },
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

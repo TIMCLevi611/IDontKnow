@@ -1,0 +1,79 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 24,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 2,
+  "PackDepth": 0,
+  "ParentID": 23,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 200,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/trap_wallFallcomboPistonHall_closed_200.schematic",
+    "SchematicName": "trap_wallFallcomboPistonHall_closed_200",
+    "DungeonTypeName": "TRAP",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 141,
+    "y": 71,
+    "z": 1260
+  },
+  "Orientation": 0,
+  "ChildIDs": [
+    25
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 141,
+        "y": 71,
+        "z": 1260,
+        "dimension": 24
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 121,
+          "y": 71,
+          "z": 1016,
+          "dimension": 23
+        },
+        "linkType": 7
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 140,
+        "y": 71,
+        "z": 1289,
+        "dimension": 24
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 152,
+          "y": 71,
+          "z": 1537,
+          "dimension": 25
+        },
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    }
+  ],
+  "Tails": []
+}
