@@ -12,7 +12,7 @@
     "y": 69,
     "z": 285
   },
-  "Orientation": 1,
+  "Orientation": 0,
   "ChildIDs": [],
   "Links": [
     {
