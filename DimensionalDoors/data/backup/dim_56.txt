@@ -1,0 +1,77 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 56,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 6,
+  "PackDepth": 6,
+  "ParentID": 55,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": true,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/Exit_XombyCraft-RopeBridge_Open_100.schematic",
+    "SchematicName": "Exit_XombyCraft-RopeBridge_Open_100",
+    "DungeonTypeName": "EXIT",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 607,
+    "y": 72,
+    "z": 352
+  },
+  "Orientation": 0,
+  "ChildIDs": [],
+  "Links": [
+    {
+      "source": {
+        "x": 607,
+        "y": 72,
+        "z": 352,
+        "dimension": 56
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 495,
+          "y": 72,
+          "z": 402,
+          "dimension": 55
+        },
+        "linkType": 7
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 629,
+        "y": 72,
+        "z": 352,
+        "dimension": 56
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 629,
+          "y": 70,
+          "z": 353,
+          "dimension": 0
+        },
+        "linkType": 4
+      },
+      "orientation": 0,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

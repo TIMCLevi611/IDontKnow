@@ -1,0 +1,97 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 35,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 5,
+  "PackDepth": 0,
+  "ParentID": 34,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 50,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/complexHall_tntPuzzleTrap_closed_50.schematic",
+    "SchematicName": "complexHall_tntPuzzleTrap_closed_50",
+    "DungeonTypeName": "COMPLEXHALL",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 589,
+    "y": 67,
+    "z": 393
+  },
+  "Orientation": 0,
+  "ChildIDs": [
+    36
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 589,
+        "y": 67,
+        "z": 393,
+        "dimension": 35
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 628,
+          "y": 67,
+          "z": 453,
+          "dimension": 34
+        },
+        "linkType": 7
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 583,
+        "y": 67,
+        "z": 387,
+        "dimension": 35
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 443,
+          "y": 67,
+          "z": 406,
+          "dimension": 36
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 595,
+        "y": 67,
+        "z": 387,
+        "dimension": 35
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

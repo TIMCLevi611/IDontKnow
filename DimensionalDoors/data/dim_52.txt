@@ -1,0 +1,71 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 52,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 3,
+  "PackDepth": 0,
+  "ParentID": 51,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/trap_pistonFloorPlatform2_closed_100.schematic",
+    "SchematicName": "trap_pistonFloorPlatform2_closed_100",
+    "DungeonTypeName": "TRAP",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 351,
+    "y": 65,
+    "z": 451
+  },
+  "Orientation": 0,
+  "ChildIDs": [],
+  "Links": [
+    {
+      "source": {
+        "x": 351,
+        "y": 65,
+        "z": 451,
+        "dimension": 52
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 337,
+          "y": 65,
+          "z": 73,
+          "dimension": 51
+        },
+        "linkType": 7
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 350,
+        "y": 65,
+        "z": 484,
+        "dimension": 52
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

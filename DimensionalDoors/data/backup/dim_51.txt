@@ -1,0 +1,122 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 51,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 2,
+  "PackDepth": 2,
+  "ParentID": 50,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/maze_smallMaze1_closed_100.schematic",
+    "SchematicName": "maze_smallMaze1_closed_100",
+    "DungeonTypeName": "MAZE",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 338,
+    "y": 65,
+    "z": 45
+  },
+  "Orientation": 1,
+  "ChildIDs": [
+    52,
+    53
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 338,
+        "y": 65,
+        "z": 45,
+        "dimension": 51
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 334,
+          "y": 65,
+          "z": -112,
+          "dimension": 50
+        },
+        "linkType": 7
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 337,
+        "y": 65,
+        "z": 73,
+        "dimension": 51
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 351,
+          "y": 65,
+          "z": 451,
+          "dimension": 52
+        },
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 343,
+        "y": 65,
+        "z": 66,
+        "dimension": 51
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 417,
+          "y": 65,
+          "z": 40,
+          "dimension": 53
+        },
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 324,
+        "y": 65,
+        "z": 62,
+        "dimension": 51
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

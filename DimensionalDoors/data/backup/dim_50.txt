@@ -1,0 +1,115 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 50,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 1,
+  "PackDepth": 1,
+  "ParentID": 0,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 200,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/hub_4WayBasicHall_closed_200.schematic",
+    "SchematicName": "hub_4WayBasicHall_closed_200",
+    "DungeonTypeName": "HUB",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 345,
+    "y": 65,
+    "z": -119
+  },
+  "Orientation": 2,
+  "ChildIDs": [
+    51
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 345,
+        "y": 65,
+        "z": -119,
+        "dimension": 50
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 365,
+          "y": 65,
+          "z": -111,
+          "dimension": 0
+        },
+        "linkType": 7
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 322,
+        "y": 65,
+        "z": -119,
+        "dimension": 50
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 334,
+        "y": 65,
+        "z": -112,
+        "dimension": 50
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 338,
+          "y": 65,
+          "z": 45,
+          "dimension": 51
+        },
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 334,
+        "y": 65,
+        "z": -126,
+        "dimension": 50
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

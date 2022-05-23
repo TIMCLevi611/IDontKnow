@@ -1,0 +1,133 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 40,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 1,
+  "PackDepth": 1,
+  "ParentID": 0,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 40,
+    "IsOpen": true,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/Hub_Cere-GreatHall_Open_40.schematic",
+    "SchematicName": "Hub_Cere-GreatHall_Open_40",
+    "DungeonTypeName": "HUB",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 275,
+    "y": 72,
+    "z": 294
+  },
+  "Orientation": 2,
+  "ChildIDs": [
+    41
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 275,
+        "y": 72,
+        "z": 294,
+        "dimension": 40
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 390,
+          "y": 72,
+          "z": 292,
+          "dimension": 0
+        },
+        "linkType": 7
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 230,
+        "y": 66,
+        "z": 312,
+        "dimension": 40
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 238,
+        "y": 66,
+        "z": 268,
+        "dimension": 40
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 250,
+        "y": 66,
+        "z": 320,
+        "dimension": 40
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 242,
+          "y": 66,
+          "z": 572,
+          "dimension": 41
+        },
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 250,
+        "y": 66,
+        "z": 268,
+        "dimension": 40
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

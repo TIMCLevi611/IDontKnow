@@ -1,0 +1,197 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 39,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 9,
+  "PackDepth": 0,
+  "ParentID": 38,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 40,
+    "IsOpen": true,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/Hub_SK-FractalCage_Open_40.schematic",
+    "SchematicName": "Hub_SK-FractalCage_Open_40",
+    "DungeonTypeName": "HUB",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 1412,
+    "y": 67,
+    "z": 328
+  },
+  "Orientation": 0,
+  "ChildIDs": [],
+  "Links": [
+    {
+      "source": {
+        "x": 1412,
+        "y": 67,
+        "z": 328,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 1235,
+          "y": 67,
+          "z": 359,
+          "dimension": 38
+        },
+        "linkType": 7
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 1459,
+        "y": 78,
+        "z": 351,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 1417,
+        "y": 78,
+        "z": 351,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 1461,
+        "y": 78,
+        "z": 349,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 1415,
+        "y": 78,
+        "z": 349,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 1461,
+        "y": 78,
+        "z": 307,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 1415,
+        "y": 78,
+        "z": 307,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 1459,
+        "y": 78,
+        "z": 305,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 1417,
+        "y": 78,
+        "z": 305,
+        "dimension": 39
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

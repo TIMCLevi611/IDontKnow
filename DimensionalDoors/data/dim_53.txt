@@ -1,0 +1,79 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 53,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 3,
+  "PackDepth": 0,
+  "ParentID": 51,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": true,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/complexHall_ruinsO_open_100.schematic",
+    "SchematicName": "complexHall_ruinsO_open_100",
+    "DungeonTypeName": "COMPLEXHALL",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 417,
+    "y": 65,
+    "z": 40
+  },
+  "Orientation": 0,
+  "ChildIDs": [
+    54
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 417,
+        "y": 65,
+        "z": 40,
+        "dimension": 53
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 343,
+          "y": 65,
+          "z": 66,
+          "dimension": 51
+        },
+        "linkType": 7
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 433,
+        "y": 65,
+        "z": 54,
+        "dimension": 53
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 456,
+          "y": 65,
+          "z": 305,
+          "dimension": 54
+        },
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

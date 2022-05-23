@@ -1,0 +1,115 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 55,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 5,
+  "PackDepth": 5,
+  "ParentID": 54,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/complexHall_smallRotundaWithExit_closed_100.schematic",
+    "SchematicName": "complexHall_smallRotundaWithExit_closed_100",
+    "DungeonTypeName": "COMPLEXHALL",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 487,
+    "y": 69,
+    "z": 393
+  },
+  "Orientation": 1,
+  "ChildIDs": [
+    56
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 487,
+        "y": 69,
+        "z": 393,
+        "dimension": 55
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 456,
+          "y": 69,
+          "z": 336,
+          "dimension": 54
+        },
+        "linkType": 7
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 495,
+        "y": 72,
+        "z": 402,
+        "dimension": 55
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 607,
+          "y": 72,
+          "z": 352,
+          "dimension": 56
+        },
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 478,
+        "y": 72,
+        "z": 402,
+        "dimension": 55
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 487,
+        "y": 65,
+        "z": 416,
+        "dimension": 55
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 4
+      },
+      "orientation": 1,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

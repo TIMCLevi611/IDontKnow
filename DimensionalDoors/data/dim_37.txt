@@ -1,0 +1,97 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 37,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 7,
+  "PackDepth": 0,
+  "ParentID": 36,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": false,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/complexHall_smallBranchWithExit_closed_100.schematic",
+    "SchematicName": "complexHall_smallBranchWithExit_closed_100",
+    "DungeonTypeName": "COMPLEXHALL",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 839,
+    "y": 67,
+    "z": 353
+  },
+  "Orientation": 0,
+  "ChildIDs": [
+    38
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 839,
+        "y": 67,
+        "z": 353,
+        "dimension": 37
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 443,
+          "y": 67,
+          "z": 399,
+          "dimension": 36
+        },
+        "linkType": 7
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 852,
+        "y": 67,
+        "z": 358,
+        "dimension": 37
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 1205,
+          "y": 67,
+          "z": 359,
+          "dimension": 38
+        },
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 848,
+        "y": 67,
+        "z": 348,
+        "dimension": 37
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 4
+      },
+      "orientation": 3,
+      "children": []
+    }
+  ],
+  "Tails": []
+}

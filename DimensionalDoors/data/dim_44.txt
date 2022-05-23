@@ -1,0 +1,230 @@
+{
+  "SAVE_DATA_VERSION_ID_INSTANCE": 982405775,
+  "ID": 44,
+  "IsDungeon": true,
+  "IsFilled": true,
+  "Depth": 4,
+  "PackDepth": 0,
+  "ParentID": 42,
+  "RootID": 0,
+  "DungeonData": {
+    "Weight": 100,
+    "IsOpen": true,
+    "IsInternal": true,
+    "SchematicPath": "/schematics/ruins/hub_doorTotemRuins_open_100.schematic",
+    "SchematicName": "hub_doorTotemRuins_open_100",
+    "DungeonTypeName": "HUB",
+    "DungeonPackName": "RUINS"
+  },
+  "Origin": {
+    "x": 189,
+    "y": 66,
+    "z": 651
+  },
+  "Orientation": 0,
+  "ChildIDs": [
+    45,
+    46
+  ],
+  "Links": [
+    {
+      "source": {
+        "x": 189,
+        "y": 66,
+        "z": 651,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 218,
+          "y": 66,
+          "z": 513,
+          "dimension": 42
+        },
+        "linkType": 7
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 189,
+        "y": 66,
+        "z": 673,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 190,
+        "y": 66,
+        "z": 672,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 188,
+        "y": 66,
+        "z": 672,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 189,
+        "y": 66,
+        "z": 671,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 189,
+        "y": 70,
+        "z": 673,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 3,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 190,
+        "y": 70,
+        "z": 672,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": -299,
+          "y": 70,
+          "z": 662,
+          "dimension": 45
+        },
+        "linkType": 2
+      },
+      "orientation": 2,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 188,
+        "y": 70,
+        "z": 672,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "destination": {
+          "x": 362,
+          "y": 70,
+          "z": 720,
+          "dimension": 46
+        },
+        "linkType": 2
+      },
+      "orientation": 0,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 189,
+        "y": 70,
+        "z": 671,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 2
+      },
+      "orientation": 1,
+      "children": []
+    },
+    {
+      "source": {
+        "x": 201,
+        "y": 66,
+        "z": 665,
+        "dimension": 44
+      },
+      "parent": {
+        "x": -1,
+        "y": -1,
+        "z": -1
+      },
+      "tail": {
+        "linkType": 4
+      },
+      "orientation": 0,
+      "children": []
+    }
+  ],
+  "Tails": []
+}
